@@ -1,0 +1,20 @@
+h1 {
+  color: gold;
+}
+
+h2 {
+  color: #f00ddd
+}
+
+h3 {
+  color: rgb(5, 252, 252);
+}
+
+h4 {
+  color: hsl(129deg 86% 48%);
+}
+
+.headings {
+  background-color: rgb(40, 63, 109);
+  padding: 20px;
+}
